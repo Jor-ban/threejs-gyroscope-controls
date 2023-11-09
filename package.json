@@ -1,0 +1,31 @@
+{
+  "name": "threejs-gyroscope-controls",
+  "version": "0.5.0",
+  "description": "Three.js Gyroscope Controls for those who want to use three.js in AR/VR/XR projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "gyroscope",
+    "controls",
+    "three.js",
+    "gyro",
+    "AR",
+    "XR",
+    "VR",
+    "Augmented Reality",
+    "Virtual Reality",
+    "Extended Reality"
+  ],
+  "author": "Jamol Nuriddinov",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.158.2"
+  }
+}
